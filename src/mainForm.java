@@ -24,6 +24,7 @@ public class mainForm extends javax.swing.JFrame {
     private static final String namaApp = "Inventory App";
     private static final String versiApp = "1.0.0.0";
     
+    //tambah comment nih
     
     public mainForm() {
         initComponents();
